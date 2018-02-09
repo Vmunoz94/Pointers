@@ -1,4 +1,5 @@
 # Pointers
 _____________________________________________
 Simple project.
-done to learn how to use pointers and function pointers, which java cannot do.
+Completed in order to learn the fundamentals of pointers and function pointers, which is a variable that java does not have
+
